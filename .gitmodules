@@ -1,0 +1,3 @@
+[submodule "chef-solr"]
+	path = chef-solr
+	url = git@github.com:dwradcliffe/chef-solr.git
