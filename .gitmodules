@@ -1,3 +1,6 @@
 [submodule "chef-solr"]
 	path = chef-solr
 	url = git@github.com:dwradcliffe/chef-solr.git
+[submodule "tomcat-solr"]
+	path = tomcat-solr
+	url = git@github.com:joost/tomcat-solr.git
